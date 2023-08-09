@@ -1,0 +1,5 @@
+{
+    "access_token": "khaidangto",
+    "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwiZ2l2ZW5fbmFtZSI6WyJraGFpIiwiZGFuZyIsInRvIl0sImlhdCI6MTUxNjIzOTAyMiwiYXVkIjoiMG9hN2Y3cTJ2eVJ4dmxiMzA1ZDciLCJleHAiOjIwOTEwNzA0OTh9.ry8przLJr_dGNOLXkch4YXpG6AzE7uT6YWAkEFGV1R8",
+    "expires_in": 3600000
+}
